@@ -1,0 +1,1 @@
+D:\00.Work\Course-git-demo\Test\GitTest\bin\Debug\GitTest.exe.config
